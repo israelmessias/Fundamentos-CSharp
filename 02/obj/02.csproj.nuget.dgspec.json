@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desenvolvimento\\c#\\Fundamentos-CSharp\\01\\01.csproj": {}
+    "D:\\Desenvolvimento\\c#\\Fundamentos-CSharp\\02\\02.csproj": {}
   },
   "projects": {
-    "D:\\Desenvolvimento\\c#\\Fundamentos-CSharp\\01\\01.csproj": {
+    "D:\\Desenvolvimento\\c#\\Fundamentos-CSharp\\02\\02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desenvolvimento\\c#\\Fundamentos-CSharp\\01\\01.csproj",
-        "projectName": "01",
-        "projectPath": "D:\\Desenvolvimento\\c#\\Fundamentos-CSharp\\01\\01.csproj",
+        "projectUniqueName": "D:\\Desenvolvimento\\c#\\Fundamentos-CSharp\\02\\02.csproj",
+        "projectName": "02",
+        "projectPath": "D:\\Desenvolvimento\\c#\\Fundamentos-CSharp\\02\\02.csproj",
         "packagesPath": "C:\\Users\\israe\\.nuget\\packages\\",
-        "outputPath": "D:\\Desenvolvimento\\c#\\Fundamentos-CSharp\\01\\obj\\",
+        "outputPath": "D:\\Desenvolvimento\\c#\\Fundamentos-CSharp\\02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

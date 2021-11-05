@@ -1,0 +1,16 @@
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\obj\Debug\net5.0\02.csproj.AssemblyReference.cache
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\obj\Debug\net5.0\02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\obj\Debug\net5.0\02.AssemblyInfoInputs.cache
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\obj\Debug\net5.0\02.AssemblyInfo.cs
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\obj\Debug\net5.0\02.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\bin\Debug\net5.0\02.exe
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\bin\Debug\net5.0\02.deps.json
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\bin\Debug\net5.0\02.runtimeconfig.json
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\bin\Debug\net5.0\02.runtimeconfig.dev.json
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\bin\Debug\net5.0\02.dll
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\bin\Debug\net5.0\ref\02.dll
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\bin\Debug\net5.0\02.pdb
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\obj\Debug\net5.0\02.dll
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\obj\Debug\net5.0\ref\02.dll
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\obj\Debug\net5.0\02.pdb
+D:\Desenvolvimento\c#\Fundamentos-CSharp\02\obj\Debug\net5.0\02.genruntimeconfig.cache
