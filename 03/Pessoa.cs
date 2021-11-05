@@ -49,25 +49,16 @@ namespace _03
 
             }
 
-        public void setAltura(double altura)
+        public double Altura
         {
-            this.altura = altura;
+            get{return altura;}
+            set{altura=value;}            
         }
-
-        public double getAltura()
+        public double Peso
         {
-            return this.altura;
+            get{return peso;}
+            set{peso=value;}
         }
-
-        public void setPeso(double peso)
-        {
-            this.peso = peso;
-        }
-
-        public double getPeso(double peso)
-        {
-            return this.peso;
-        }
-            // return null;
+   // return null;
         }
     }

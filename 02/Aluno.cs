@@ -25,34 +25,21 @@ namespace _02
             Console.Write("Sua media é: "+mediaAluno+"\nAluno "+situacao);
         }
 
-        public void setNome(string nome)
+        public string Nome
         {
-            this.nome = nome;
+            get{return nome;}
+            set{nome=value;}
+        }
+        public double Nota1
+        {
+            get{return nota1;}
+            set{nota1=value;}
         }
 
-        public string getNome()
+        public double Nota2 
         {
-            return this.nome;
+            get{return nota2;}
+            set{nota2=value;}
         }
-        public void setNota1(double nota1)
-        {
-            this.nota1 = nota1;
-        }
-
-        public double getNota1()
-        {
-            return this.nota1;
-        }
-
-        public void setNota2(double nota2)
-        {
-            this.nota2 = nota2;
-        }
-
-        public double getNota2()
-        {
-            return this.nota2;
-        }
-
     }
 }

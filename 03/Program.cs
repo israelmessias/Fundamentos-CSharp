@@ -7,8 +7,8 @@ namespace _03
         static void Main(string[] args)
         {
             Pessoa israel = new Pessoa();
-            israel.setAltura(1.72);
-            israel.setPeso(69);
+            israel.Altura = 1.72;
+            israel.Peso = 70;
             israel.yourIMC();
         }
     }
